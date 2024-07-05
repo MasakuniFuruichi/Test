@@ -1,0 +1,12 @@
+class Greeting{
+  public virtual void bye(){	//オーバーライドされるメソッド
+    Debug.Log("Good bye");
+  }
+}
+
+class Aisatsu : Greeting {	//Greetingクラスを継承
+  public override void bye(){	//オーバーライドするメソッド
+    Debug.Log("さようなら");
+  }
+}
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
