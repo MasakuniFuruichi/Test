@@ -10,3 +10,4 @@ class Aisatsu : Greeting {	//Greetingクラスを継承
   }
 }
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+追加しました。
